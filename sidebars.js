@@ -23,6 +23,7 @@ const sidebars = {
     'phlox',
     'api',
     'user-interface',
+    'extra'
   ],
 };
 
